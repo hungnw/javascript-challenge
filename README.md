@@ -1,6 +1,6 @@
 # JavaScript Challenge
 
-## Level 1: Automatic Table and Date Search (Required)
+## Level 1: Automatic Table and Date Search 
 
 
 * Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
@@ -16,7 +16,7 @@
 
 
 
-## Level 2: Multiple Search Categories (Optional)
+## Level 2: Multiple Search Categories 
 
 
 * Complete all of Level 1 criteria.
